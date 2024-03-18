@@ -1,0 +1,20 @@
+  .bnwUs{
+    background-image: url(./images/bnwUs.jpg);
+    /* width: 4vw; */
+    /* height: 5vh; */
+    width: 200px;
+    height: 400px
+  }  
+
+
+
+.homeClass{
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: whitesmoke;
+}
+
