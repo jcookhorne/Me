@@ -1,7 +1,8 @@
     import {BrowserRouter, Route, Routes} from 'react-router-dom'
-    import Profile from './My_Resume/Profile.tsx'
+    import Profile from './Pages/Profile.tsx'
     import React from 'react'
-    import Home from './Home.tsx'
+    import Home from './Pages/Home.tsx'
+import Navbar from './Pages/Navbar.tsx'
 
 
     const Routing = () =>{
