@@ -1,0 +1,2 @@
+When using images you will run into an issue with its declaration types so keep in mind you should make a folder to hold those types
+so in folder types there will be a .d.ts
